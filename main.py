@@ -1,5 +1,3 @@
-import numpy
-
 razavi_children = ['Razie', 'Morteza', 'Mostafa', 'Pooskshooloo']
 
 print('Total number of children:', len(razavi_children))
